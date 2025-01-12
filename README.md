@@ -4,9 +4,9 @@ A simple chat interface built with Flutter that implements a basic chatbot funct
 # Prerequisites
 Before running this application, make sure you have the following installed:
 
-## Flutter (latest version)
-## Dart SDK
-## An IDE (VS Code, Android Studio, or IntelliJ)
+ Flutter (latest version)
+ Dart SDK
+ An IDE (VS Code, Android Studio, or IntelliJ)
 
 
 # Installation
