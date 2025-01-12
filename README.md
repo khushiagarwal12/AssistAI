@@ -11,13 +11,9 @@ Before running this application, make sure you have the following installed:
 
 # Installation
 
-## 1. Clone the repository:
+## 1. Clone the repository
 
-https://github.com/yourusername/flutter-chat-app.git
-
-## 2. Navigate to the project directory:
-
-flutter-chat-app
+## 2. Navigate to the project directory
 
 ## 3. Install dependencies:
 
