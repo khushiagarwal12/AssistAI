@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 name: bot_app
 description: "A new Flutter project"
 publish_to: 'none'
@@ -17,38 +16,10 @@ dependencies:
   cloud_firestore: ^4.13.6
   http: ^1.1.0
 
-
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
 
 flutter:
-=======
-name: bot_app
-description: "A new Flutter project"
-publish_to: 'none'
-version: 1.0.0+1
-
-environment:
-  sdk: '>=2.12.0 <4.0.0'
-
-dependencies:
-  flutter:
-    sdk: flutter
-  cupertino_icons: ^1.0.2
-  firebase_core: ^2.24.2
-  firebase_auth: ^4.17.4
-  google_sign_in: ^6.2.1
-  cloud_firestore: ^4.13.6
-  http: ^1.1.0
-
-
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
-  flutter_lints: ^2.0.0
-
-flutter:
->>>>>>> master
   uses-material-design: true
