@@ -1,4 +1,4 @@
-# AssistAI- Flutter Chat App with BuddyBot
+# AssistAI – Here to Assist
 A simple chat interface built with Flutter that implements a basic chatbot functionality. The app features a clean UI with message bubbles, typing indicators, and automated responses from BuddyBot.
 
 
