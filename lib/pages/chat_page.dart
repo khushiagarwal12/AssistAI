@@ -67,7 +67,7 @@ class _ChatPageState extends State<ChatPage> {
     return Scaffold(
       backgroundColor: Colors.lightBlue[50], // Light blue background
       appBar: AppBar(
-        title: const Text('BuddyBot Chat'),
+        title: const Text('Chat'),
       ),
       body: Column(
         children: [
